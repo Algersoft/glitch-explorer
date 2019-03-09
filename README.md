@@ -9,9 +9,5 @@ Block explorer for Kriegerrand CryptoNote based cryptocurrency.
 ```
 2) Just upload to your website and change 'api' variable in config.js to point to your daemon.
 
-### Development
-Thanks To
-Devs at TurtleCoin and Kriegerrand
-
 ### Note
 A lot of this code is from the TurtleCoin and Karbovanets
